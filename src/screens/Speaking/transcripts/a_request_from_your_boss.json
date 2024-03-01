@@ -1,0 +1,77 @@
+[
+  {
+    "sentence": "This recording is from the British Council.",
+    "in": 0,
+    "out": 5.76
+  },
+  {
+    "sentence": "Hi, Mario. Can you help me prepare some things for the next month?",
+    "in": 5.76,
+    "out": 11.14
+  },
+  {
+    "sentence": "Okay, sure. What can I help you with?",
+    "in": 11.14,
+    "out": 14.36
+  },
+  {
+    "sentence": "I need to visit the customer in Germany. It's important.",
+    "in": 14.36,
+    "out": 19.14
+  },
+  {
+    "sentence": "What can I do to help?",
+    "in": 19.14,
+    "out": 21.37
+  },
+  {
+    "sentence": "Can you send an email to the customer? Ask them when I can visit them next week. Please do this first. It's a priority and very urgent.",
+    "in": 21.37,
+    "out": 33.96
+  },
+  {
+    "sentence": "Right, I'll do it today. Thanks.",
+    "in": 33.96,
+    "out": 37.45
+  },
+  {
+    "sentence": "This next task is also important. Can you invite everyone to the next team meeting?",
+    "in": 37.45,
+    "out": 45.5
+  },
+  {
+    "sentence": "Yes, I will.",
+    "in": 45.5,
+    "out": 47.41
+  },
+  {
+    "sentence": "But first, you need to book a meeting room. After that, please send everyone an email about it.",
+    "in": 47.41,
+    "out": 55.5
+  },
+  {
+    "sentence": "Yes, of course.",
+    "in": 55.5,
+    "out": 57.58
+  },
+  {
+    "sentence": "And finally, can you write a short report about a new project? I have to give a presentation to our managers next month. Please do it when you have time, sometime in the next two or three weeks. It's not too urgent.",
+    "in": 57.58,
+    "out": 75.51
+  },
+  {
+    "sentence": "Sure, no problem. I can do it this week.",
+    "in": 75.51,
+    "out": 78.6
+  },
+  {
+    "sentence": "There is no hurry. Take your time.",
+    "in": 78.6,
+    "out": 83.87
+  },
+  {
+    "sentence": "This recording is from the British Council. To find more activities to practise your English, visit www.britishcouncil.org/learnenglish.",
+    "in": 83.87,
+    "out": 0
+  }
+]
